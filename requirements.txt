@@ -1,5 +1,6 @@
 streamlit
 agno
+groq
 reportlab
 youtube-transcript-api
 python-dotenv
